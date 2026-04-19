@@ -59,7 +59,7 @@ Also worked on improving responsiveness and maintaining consistency across pages
 
 ## Contact
 
-- LinkedIn: (add your link)  
+- LinkedIn: https://www.linkedin.com/in/aniket-nayan-verma  
 - Email: aniketnayan123@gmail.com  
 
 ---
