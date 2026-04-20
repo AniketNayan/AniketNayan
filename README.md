@@ -10,9 +10,11 @@ I also have some experience with React and Tailwind, and I’m gradually trying 
 
 **Languages:** C, C++, Python, JavaScript
 
-**Core:** Data Structures & Algorithms, OOP, DBMS
+**Core:** Data Structures & Algorithms, Computer Network, OS, DBMS, COA
 
 **Web:** React, HTML, CSS, Tailwind, Nodejs
+
+**Machine Learning:** Machine Learning, Linear Algebra, Probability, Statistics, Optimization Basics
 
 **Database:** MySQL, MongoDB
 
