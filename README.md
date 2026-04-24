@@ -21,31 +21,25 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c" height="40"/> C &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++ &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/> JavaScript
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🌐 Web & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/> React &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="40"/> Express &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🗄 Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="40"/> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -97,9 +91,8 @@ Worked on building UI components with React and Tailwind, fixed responsiveness i
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aniket-nayan-verma)
-&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aniketnayan123@gmail.com)
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-nayan-verma)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aniketnayan123@gmail.com)
+
 *"Still learning. Still building."*
 </div>
