@@ -45,7 +45,7 @@
 
 ## 🚀 Projects
 
-### 🟢 SMS Spam Classifier &nbsp; [![View](https://img.shields.io/badge/View-Repo-3fb950?style=flat-square&logo=github)](https://github.com/AniketNayan/spam-classification)
+### 🟢 SMS Spam Classifier &nbsp; [![View](https://img.shields.io/badge/View-Repo-3fb950?style=flat-square&logo=github)](https://github.com/AniketNayan/Spam-Classifier-project)
 
 Built an NLP model that classifies SMS messages as spam or ham. Spent a good chunk of time tuning the preprocessing and feature extraction — made a noticeable difference in accuracy.
 
